@@ -1,4 +1,12 @@
 ---
 label: Blog post two
 hide_body: false
-fields: []
+fields:
+- name: two
+  type: blocks
+  label: Two
+  template_types:
+  - blog-post-two
+  config:
+    min: 
+    max: 
