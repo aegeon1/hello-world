@@ -9,3 +9,4 @@ fields:
   label: One text
 pages:
 - _posts/2021-01-26-Part 1.md
+- index.md
