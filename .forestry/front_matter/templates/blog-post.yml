@@ -7,3 +7,5 @@ fields:
   config:
     required: false
   label: One text
+pages:
+- _posts/Part 1.md
